@@ -1,6 +1,12 @@
 Example Voting App
 =========
 
+## Badges
+[![Coverage Status](https://coveralls.io/repos/github/kenneyhe/example-voting-app/badge.svg)](https://coveralls.io/github/kenneyhe/example-voting-app)
+
+[ ![Codeship Status for kenneyhe/example-voting-app](https://app.codeship.com/projects/6f3b1e20-7597-0135-9220-569b12831ba5/status?branch=master)](https://app.codeship.com/projects/244271)
+
+
 Getting started
 ---------------
 
